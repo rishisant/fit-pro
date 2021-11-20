@@ -1,0 +1,18 @@
+FitPro //
+
+IDEA >> Game where you are given a set amount of money and you continually earn money through purchasing fits, which are similar to stocks that grow or decrease over a period of time. 
+
+LEVELS >> There is a leveling system which the player uses to advance through the ranks. Once the player gets to max rank, they beat the game.
+
+LEVEL 1 : Novice ($0)
+LEVEL 2 : Setter ($10000)
+LEVEL 3 : Fittice ($100000)
+LEVEL 4 : Fitter ($1000000)
+LEVEL 5 : ProFitter ($1000000000)
+
+ITEMS >> There are items that the player can purchase when they reach a certain point. Each one of these items allows the player to make decisions that can profit them longterm.
+
+ITEM 1 : The Magic Ball (Description: An item that can (possibly) see the future. Only has a chance to help you, however, will not always help. It will predict the trend of certain fits, allowing you to make choices.)
+ITEM 2 : Fit Steroid (Description: Increases the growth rate of a fit, but also the wither rate.)
+
+COMPETITION >> There are other players who purchase and sell fits, who have a large impact on which fits are popular. There are headlines before every round which display news that may benefit the player, by giving them more information.

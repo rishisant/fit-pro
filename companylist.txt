@@ -1,0 +1,16 @@
+Puckett Industries,PCK,1,100,1.05,0.95
+Kash Cows,KAS,1,75,1.10,0.90
+Money Makers,MON,1,85,1.02,0.98
+Happy Family,HAF,1,120,1.04,0.88
+Wicked Chicken,WIC,1,130,1.03,0.98
+Flash Design,FDE,1,100,1.20,0.78
+SnapGram,SNG,1,200,1.23,0.65
+Soprano,SOP,1,155,1.31,0.87
+Alto Therapy,ALT,1,180,1.17,0.88
+Quantum Wine,QUW,1,400,1.03,0.93
+Pillow Princes,PPS,1,500,1.12,0.79
+Stiff Wire,SWR,1,750,1.18,0.93
+Window Sell,WSL,1,1000,1.25,0.78
+Sugar Bank,SBK,1,1250,1.40,0.65
+Breadara,BRD,1,1300,1.25,0.95
+Animatex,AMX,1,2000,1.17,0.83
